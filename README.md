@@ -1,3 +1,9 @@
+ - Что будет, если ворона сядет на провода?
+ - Электрокар
+
+   ### vercel - [https://rk-technology-test.vercel.app/](https://dva-pacana-test-task-frontend.vercel.app/)
+
+
 <!-- title: Тестовое задание -->
 <p>
     <h1 align="center">Тестовое задание VueJS</h1>
